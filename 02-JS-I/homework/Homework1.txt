@@ -1,0 +1,2 @@
+Variable: Es un espacio en memoria para guardar algo y utilizarlo mas tarde.
+String: Es el valor de una variable no numerico si no texto.
