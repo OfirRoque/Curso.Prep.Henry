@@ -1,2 +1,7 @@
 Variable: Es un espacio en memoria para guardar algo y utilizarlo mas tarde.
 String: Es el valor de una variable no numerico si no texto.
+Funciones: Las funciones son por ejemplo como una camara fotografica que tiene la funcion de tomar fotografias.
+    Argumentos: Son las cosas que va a hacer la funcion.
+    Return: Es la cosa que va a salir o devolver de la funcion como por ejemplo la fotografia de una camara.
+Declaraciones if: Las Declaraciones if como condicionales si y no que van a decidir si una operacion o funcion hace una cosa o otra dependiendo si comple o no las condiciones.
+Valores booleanos: Los valores booleanos son el valor que les puuedes dar a una variable, pueden ser 2: verdadero o falso.
