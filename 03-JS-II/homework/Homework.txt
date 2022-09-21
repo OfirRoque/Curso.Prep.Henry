@@ -1,0 +1,6 @@
+Homework javascript II
+Bucle For: El bucle for es una funcion en javascript que facilita hacer algunas tareas
+           como por ejemplo: Escribir en pantalla numeros del 1 al 100.
+&&: Significa "Y" y sirve para incluir mas de una operacion de comparacion.
+||: Significa "O" y sirve para comparar mas de una operacion de conparacion.
+!: Significa "NOT" o "NO" en español y sirve para invertir el resultado de un operacion logica. 
