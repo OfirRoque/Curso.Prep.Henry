@@ -1,0 +1,2 @@
+Homework 04-JS-III
+Arrays: son un tipo de valor que le das a una variable que puede almacenar disatintas y muchas cantidad e datos.
