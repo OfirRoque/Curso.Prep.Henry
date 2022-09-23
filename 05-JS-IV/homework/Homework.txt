@@ -1,0 +1,9 @@
+Homework 05-JS-IV
+objetos: Los objetos en javascript son como lo arreglos o arrarys con la diferencia que un solo valor puede tener distintas funciones.
+Propiedades: Las propiedades son el valor o funcion que contiene un valor de un objeto.
+Metodos: Son funciones que le das a un valor de uhn objeto.
+Bucle for..in: Los bucle for..in recorreran cada clave  o valor de un objeto y finalizara cuan llegue hasta la ultima clave.
+Notacion de puntos vs Notacion de corchetes: La notacion de puntos sirve para acceder a una palabra clave de un objeto y suele se mas facil de escribir 
+                                             que una notacion en corchetes, puedes acceder a la notacion de puntos escribiendo el nombre del objeto seguido 
+                                             de un punto y la palabra clave y el la notacion de corchetes se accede escribiendo el nombre del objetos seguido
+                                             de corchetes mas una palabra clave de un objeto pero escribiendola como una string osea entre comillas.
