@@ -1,0 +1,6 @@
+# Homework: Javascript V
+Prototype: Es una especie de clave que puede contener distintos valores como un objeto pero con la diferencia que 
+           al crear un Prototype o mejor dicho añadiendole un valor o metodo esta va quedar heredada a todos los ojetos que 
+           utilizen esta clave.
+_Constructors_: Los constructors o constructores son funciones que nos ofrece javascript para utilizar las clavesy valores 
+                de un objeto creado en varios objetos que usen las mismas claves y funcionalidades.
