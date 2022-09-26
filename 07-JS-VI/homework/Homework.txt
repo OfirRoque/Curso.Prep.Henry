@@ -1,0 +1,2 @@
+Homework 
+Funcion callback: Las funcione callbacks es pasar funciones como argumento a otras fucniones.
